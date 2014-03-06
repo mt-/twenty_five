@@ -1,4 +1,4 @@
 twenty_five
 ===========
 
-Programming in Erlang chapter twenty five
+Programming in erlang chapter twenty five
